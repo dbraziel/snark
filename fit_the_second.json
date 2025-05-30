@@ -1,0 +1,363 @@
+{
+  "title": "Fit the Second",
+  "subTitle": "The Bellman\u2019s Speech",
+  "stanzas": [
+    {
+      "stanzaID": 1,
+      "stanza": [
+        {
+          "line": "The Bellman himself they all praised to the skies--"
+        },
+        {
+          "line": "Such a carriage, such ease and such grace!"
+        },
+        {
+          "line": "Such solemnity, too! One could see he was wise,"
+        },
+        {
+          "line": "The moment one looked in his face!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 2,
+      "stanza": [
+        {
+          "line": "He had bought a large map representing the sea,"
+        },
+        {
+          "line": "Without the least vestige of land:"
+        },
+        {
+          "line": "And the crew were much pleased when they found it to be"
+        },
+        {
+          "line": "A map they could all understand."
+        }
+      ]
+    },
+    {
+      "stanzaID": 3,
+      "stanza": [
+        {
+          "line": "\u201cWhat\u2019s the good of Mercator\u2019s North Poles and Equators,"
+        },
+        {
+          "line": "Tropics, Zones, and Meridian Lines?\u201d"
+        },
+        {
+          "line": "So the Bellman would cry: and the crew would reply"
+        },
+        {
+          "line": "\u201cThey are merely conventional signs!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 4,
+      "stanza": [
+        {
+          "line": "\u201cOther maps are such shapes, with their islands and capes!"
+        },
+        {
+          "line": "But we\u2019ve got our brave Captain to thank\u201d"
+        },
+        {
+          "line": "(So the crew would protest) \u201cthat he\u2019s bought us the best--"
+        },
+        {
+          "line": "A perfect and absolute blank!\u201d"
+        }
+      ]
+    },
+    {
+      "stanzaID": 5,
+      "stanza": [
+        {
+          "line": "This was charming, no doubt: but they shortly found out"
+        },
+        {
+          "line": "That the Captain they trusted so well"
+        },
+        {
+          "line": "Had only one notion for crossing the ocean,"
+        },
+        {
+          "line": "And that was to tingle his bell."
+        }
+      ]
+    },
+    {
+      "stanzaID": 6,
+      "stanza": [
+        {
+          "line": "He was thoughtful and grave--but the orders he gave"
+        },
+        {
+          "line": "Were enough to bewilder a crew."
+        },
+        {
+          "line": "When he cried \u201cSteer to starboard, but keep her head larboard!\u201d"
+        },
+        {
+          "line": "What on earth was the helmsman to do?"
+        }
+      ]
+    },
+    {
+      "stanzaID": 7,
+      "stanza": [
+        {
+          "line": "Then the bowsprit got mixed with the rudder sometimes:"
+        },
+        {
+          "line": "A thing, as the Bellman remarked,"
+        },
+        {
+          "line": "That frequently happens in tropical climes,"
+        },
+        {
+          "line": "When a vessel is, so to speak, \u201csnarked.\u201d"
+        }
+      ]
+    },
+    {
+      "stanzaID": 8,
+      "stanza": [
+        {
+          "line": "But the principal failing occurred in the sailing,"
+        },
+        {
+          "line": "And the Bellman, perplexed and distressed,"
+        },
+        {
+          "line": "Said he had hoped, at least, when the wind blew due East,"
+        },
+        {
+          "line": "That the ship would not travel due West!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 9,
+      "stanza": [
+        {
+          "line": "But the danger was past--they had landed at last,"
+        },
+        {
+          "line": "With their boxes, portmanteaus, and bags:"
+        },
+        {
+          "line": "Yet at first sight the crew were not pleased with the view,"
+        },
+        {
+          "line": "Which consisted of chasms and crags."
+        }
+      ]
+    },
+    {
+      "stanzaID": 10,
+      "stanza": [
+        {
+          "line": "The Bellman perceived that their spirits were low,"
+        },
+        {
+          "line": "And repeated in musical tone"
+        },
+        {
+          "line": "Some jokes he had kept for a season of woe--"
+        },
+        {
+          "line": "But the crew would do nothing but groan."
+        }
+      ]
+    },
+    {
+      "stanzaID": 11,
+      "stanza": [
+        {
+          "line": "He served out some grog with a liberal hand,"
+        },
+        {
+          "line": "And bade them sit down on the beach:"
+        },
+        {
+          "line": "And they could not but own that their Captain looked grand,"
+        },
+        {
+          "line": "As he stood and delivered his speech."
+        }
+      ]
+    },
+    {
+      "stanzaID": 12,
+      "stanza": [
+        {
+          "line": "\u201cFriends, Romans, and countrymen, lend me your ears!\u201d"
+        },
+        {
+          "line": "(They were all of them fond of quotations:"
+        },
+        {
+          "line": "So they drank to his health, and they gave him three cheers,"
+        },
+        {
+          "line": "While he served out additional rations)."
+        }
+      ]
+    },
+    {
+      "stanzaID": 13,
+      "stanza": [
+        {
+          "line": "\u201cWe have sailed many months, we have sailed many weeks,"
+        },
+        {
+          "line": "(Four weeks to the month you may mark),"
+        },
+        {
+          "line": "But never as yet (\u2019tis your Captain who speaks)"
+        },
+        {
+          "line": "Have we caught the least glimpse of a Snark!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 14,
+      "stanza": [
+        {
+          "line": "\u201cWe have sailed many weeks, we have sailed many days,"
+        },
+        {
+          "line": "(Seven days to the week I allow),"
+        },
+        {
+          "line": "But a Snark, on the which we might lovingly gaze,"
+        },
+        {
+          "line": "We have never beheld till now!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 15,
+      "stanza": [
+        {
+          "line": "\u201cCome, listen, my men, while I tell you again"
+        },
+        {
+          "line": "The five unmistakable marks"
+        },
+        {
+          "line": "By which you may know, wheresoever you go,"
+        },
+        {
+          "line": "The warranted genuine Snarks."
+        }
+      ]
+    },
+    {
+      "stanzaID": 16,
+      "stanza": [
+        {
+          "line": "\u201cLet us take them in order. The first is the taste,"
+        },
+        {
+          "line": "Which is meagre and hollow, but crisp:"
+        },
+        {
+          "line": "Like a coat that is rather too tight in the waist,"
+        },
+        {
+          "line": "With a flavour of Will-o-the-wisp."
+        }
+      ]
+    },
+    {
+      "stanzaID": 17,
+      "stanza": [
+        {
+          "line": "\u201cIts habit of getting up late you\u2019ll agree"
+        },
+        {
+          "line": "That it carries too far, when I say"
+        },
+        {
+          "line": "That it frequently breakfasts at five-o\u2019clock tea,"
+        },
+        {
+          "line": "And dines on the following day."
+        }
+      ]
+    },
+    {
+      "stanzaID": 18,
+      "stanza": [
+        {
+          "line": "\u201cThe third is its slowness in taking a jest."
+        },
+        {
+          "line": "Should you happen to venture on one,"
+        },
+        {
+          "line": "It will sigh like a thing that is deeply distressed:"
+        },
+        {
+          "line": "And it always looks grave at a pun."
+        }
+      ]
+    },
+    {
+      "stanzaID": 19,
+      "stanza": [
+        {
+          "line": "\u201cThe fourth is its fondness for bathing-machines,"
+        },
+        {
+          "line": "Which it constantly carries about,"
+        },
+        {
+          "line": "And believes that they add to the beauty of scenes--"
+        },
+        {
+          "line": "A sentiment open to doubt."
+        }
+      ]
+    },
+    {
+      "stanzaID": 20,
+      "stanza": [
+        {
+          "line": "\u201cThe fifth is ambition. It next will be right"
+        },
+        {
+          "line": "To describe each particular batch:"
+        },
+        {
+          "line": "Distinguishing those that have feathers, and bite,"
+        },
+        {
+          "line": "From those that have whiskers, and scratch."
+        }
+      ]
+    },
+    {
+      "stanzaID": 21,
+      "stanza": [
+        {
+          "line": "\u201cFor, although common Snarks do no manner of harm,"
+        },
+        {
+          "line": "Yet, I feel it my duty to say,"
+        },
+        {
+          "line": "Some are Boojums--\u201d The Bellman broke off in alarm,"
+        },
+        {
+          "line": "For the Baker had fainted away."
+        }
+      ]
+    }
+  ]
+}

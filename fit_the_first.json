@@ -1,0 +1,380 @@
+{
+  "title": "Fit the First",
+  "subTitle": "The Landing",
+  "stanzas": [
+    {
+      "stanzaID": 1,
+      "stanza": [
+        {
+          "line": "\u201cJust the place for a Snark!\u201d the Bellman cried,"
+        },
+        {
+          "line": "As he landed his crew with care;"
+        },
+        {
+          "line": "Supporting each man on the top of the tide"
+        },
+        {
+          "line": "By a finger entwined in his hair."
+        }
+      ]
+    },
+    {
+      "stanzaID": 2,
+      "stanza": [
+        {
+          "line": "\u201cJust the place for a Snark! I have said it twice:"
+        },
+        {
+          "line": "That alone should encourage the crew."
+        },
+        {
+          "line": "Just the place for a Snark! I have said it thrice:"
+        },
+        {
+          "line": "What I tell you three times is true.\u201d"
+        }
+      ]
+    },
+    {
+      "stanzaID": 3,
+      "stanza": [
+        {
+          "line": "The crew was complete: it included a Boots--"
+        },
+        {
+          "line": "A maker of Bonnets and Hoods--"
+        },
+        {
+          "line": "A Barrister, brought to arrange their disputes--"
+        },
+        {
+          "line": "And a Broker, to value their goods."
+        }
+      ]
+    },
+    {
+      "stanzaID": 4,
+      "stanza": [
+        {
+          "line": "A Billiard-marker, whose skill was immense,"
+        },
+        {
+          "line": "Might perhaps have won more than his share--"
+        },
+        {
+          "line": "But a Banker, engaged at enormous expense,"
+        },
+        {
+          "line": "Had the whole of their cash in his care."
+        }
+      ]
+    },
+    {
+      "stanzaID": 5,
+      "stanza": [
+        {
+          "line": "There was also a Beaver, that paced on the deck,"
+        },
+        {
+          "line": "Or would sit making lace in the bow:"
+        },
+        {
+          "line": "And had often (the Bellman said) saved them from wreck,"
+        },
+        {
+          "line": "Though none of the sailors knew how."
+        }
+      ]
+    },
+    {
+      "stanzaID": 6,
+      "stanza": [
+        {
+          "line": "There was one who was famed for the number of things"
+        },
+        {
+          "line": "He forgot when he entered the ship:"
+        },
+        {
+          "line": "His umbrella, his watch, all his jewels and rings,"
+        },
+        {
+          "line": "And the clothes he had bought for the trip."
+        }
+      ]
+    },
+    {
+      "stanzaID": 7,
+      "stanza": [
+        {
+          "line": "He had forty-two boxes, all carefully packed,"
+        },
+        {
+          "line": "With his name painted clearly on each:"
+        },
+        {
+          "line": "But, since he omitted to mention the fact,"
+        },
+        {
+          "line": "They were all left behind on the beach."
+        }
+      ]
+    },
+    {
+      "stanzaID": 8,
+      "stanza": [
+        {
+          "line": "The loss of his clothes hardly mattered, because"
+        },
+        {
+          "line": "He had seven coats on when he came,"
+        },
+        {
+          "line": "With three pair of boots--but the worst of it was,"
+        },
+        {
+          "line": "He had wholly forgotten his name."
+        }
+      ]
+    },
+    {
+      "stanzaID": 9,
+      "stanza": [
+        {
+          "line": "He would answer to \u201cHi!\u201d or to any loud cry,"
+        },
+        {
+          "line": "Such as \u201cFry me!\u201d or \u201cFritter my wig!\u201d"
+        },
+        {
+          "line": "To \u201cWhat-you-may-call-um!\u201d or \u201cWhat-was-his-name!\u201d"
+        },
+        {
+          "line": "But especially \u201cThing-um-a-jig!\u201d"
+        }
+      ]
+    },
+    {
+      "stanzaID": 10,
+      "stanza": [
+        {
+          "line": "While, for those who preferred a more forcible word,"
+        },
+        {
+          "line": "He had different names from these:"
+        },
+        {
+          "line": "His intimate friends called him \u201cCandle-ends,\u201d"
+        },
+        {
+          "line": "And his enemies \u201cToasted-cheese.\u201d"
+        }
+      ]
+    },
+    {
+      "stanzaID": 11,
+      "stanza": [
+        {
+          "line": "\u201cHis form is ungainly--his intellect small--\u201d"
+        },
+        {
+          "line": "(So the Bellman would often remark)"
+        },
+        {
+          "line": "\u201cBut his courage is perfect! And that, after all,"
+        },
+        {
+          "line": "Is the thing that one needs with a Snark.\u201d"
+        }
+      ]
+    },
+    {
+      "stanzaID": 12,
+      "stanza": [
+        {
+          "line": "He would joke with hy\u00e6nas, returning their stare"
+        },
+        {
+          "line": "With an impudent wag of the head:"
+        },
+        {
+          "line": "And he once went a walk, paw-in-paw, with a bear,"
+        },
+        {
+          "line": "\u201cJust to keep up its spirits,\u201d he said."
+        }
+      ]
+    },
+    {
+      "stanzaID": 13,
+      "stanza": [
+        {
+          "line": "He came as a Baker: but owned, when too late--"
+        },
+        {
+          "line": "And it drove the poor Bellman half-mad--"
+        },
+        {
+          "line": "He could only bake Bridecake--for which, I may state,"
+        },
+        {
+          "line": "No materials were to be had."
+        }
+      ]
+    },
+    {
+      "stanzaID": 14,
+      "stanza": [
+        {
+          "line": "The last of the crew needs especial remark,"
+        },
+        {
+          "line": "Though he looked an incredible dunce:"
+        },
+        {
+          "line": "He had just one idea--but, that one being \u201cSnark,\u201d"
+        },
+        {
+          "line": "The good Bellman engaged him at once."
+        }
+      ]
+    },
+    {
+      "stanzaID": 15,
+      "stanza": [
+        {
+          "line": "He came as a Butcher: but gravely declared,"
+        },
+        {
+          "line": "When the ship had been sailing a week,"
+        },
+        {
+          "line": "He could only kill Beavers. The Bellman looked scared,"
+        },
+        {
+          "line": "And was almost too frightened to speak:"
+        }
+      ]
+    },
+    {
+      "stanzaID": 16,
+      "stanza": [
+        {
+          "line": "But at length he explained, in a tremulous tone,"
+        },
+        {
+          "line": "There was only one Beaver on board;"
+        },
+        {
+          "line": "And that was a tame one he had of his own,"
+        },
+        {
+          "line": "Whose death would be deeply deplored."
+        }
+      ]
+    },
+    {
+      "stanzaID": 17,
+      "stanza": [
+        {
+          "line": "The Beaver, who happened to hear the remark,"
+        },
+        {
+          "line": "Protested, with tears in its eyes,"
+        },
+        {
+          "line": "That not even the rapture of hunting the Snark"
+        },
+        {
+          "line": "Could atone for that dismal surprise!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 18,
+      "stanza": [
+        {
+          "line": "It strongly advised that the Butcher should be"
+        },
+        {
+          "line": "Conveyed in a separate ship:"
+        },
+        {
+          "line": "But the Bellman declared that would never agree"
+        },
+        {
+          "line": "With the plans he had made for the trip:"
+        }
+      ]
+    },
+    {
+      "stanzaID": 19,
+      "stanza": [
+        {
+          "line": "Navigation was always a difficult art,"
+        },
+        {
+          "line": "Though with only one ship and one bell:"
+        },
+        {
+          "line": "And he feared he must really decline, for his part,"
+        },
+        {
+          "line": "Undertaking another as well."
+        }
+      ]
+    },
+    {
+      "stanzaID": 20,
+      "stanza": [
+        {
+          "line": "The Beaver\u2019s best course was, no doubt, to procure"
+        },
+        {
+          "line": "A second-hand dagger-proof coat--"
+        },
+        {
+          "line": "So the Baker advised it--and next, to insure"
+        },
+        {
+          "line": "Its life in some Office of note:"
+        }
+      ]
+    },
+    {
+      "stanzaID": 21,
+      "stanza": [
+        {
+          "line": "This the Banker suggested, and offered for hire"
+        },
+        {
+          "line": "(On moderate terms), or for sale,"
+        },
+        {
+          "line": "Two excellent Policies, one Against Fire,"
+        },
+        {
+          "line": "And one Against Damage From Hail."
+        }
+      ]
+    },
+    {
+      "stanzaID": 22,
+      "stanza": [
+        {
+          "line": "Yet still, ever after that sorrowful day,"
+        },
+        {
+          "line": "Whenever the Butcher was by,"
+        },
+        {
+          "line": "The Beaver kept looking the opposite way,"
+        },
+        {
+          "line": "And appeared unaccountably shy."
+        }
+      ]
+    }
+  ]
+}

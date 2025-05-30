@@ -1,0 +1,312 @@
+{
+  "title": "Fit the Fourth",
+  "subTitle": "The Hunting",
+  "stanzas": [
+    {
+      "stanzaID": 1,
+      "stanza": [
+        {
+          "line": "The Bellman looked uffish, and wrinkled his brow."
+        },
+        {
+          "line": "\u201cIf only you\u2019d spoken before!"
+        },
+        {
+          "line": "It\u2019s excessively awkward to mention it now,"
+        },
+        {
+          "line": "With the Snark, so to speak, at the door!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 2,
+      "stanza": [
+        {
+          "line": "\u201cWe should all of us grieve, as you well may believe,"
+        },
+        {
+          "line": "If you never were met with again--"
+        },
+        {
+          "line": "But surely, my man, when the voyage began,"
+        },
+        {
+          "line": "You might have suggested it then?"
+        }
+      ]
+    },
+    {
+      "stanzaID": 3,
+      "stanza": [
+        {
+          "line": "\u201cIt\u2019s excessively awkward to mention it now--"
+        },
+        {
+          "line": "As I think I\u2019ve already remarked.\u201d"
+        },
+        {
+          "line": "And the man they called \u201cHi!\u201d replied, with a sigh,"
+        },
+        {
+          "line": "\u201cI informed you the day we embarked."
+        }
+      ]
+    },
+    {
+      "stanzaID": 4,
+      "stanza": [
+        {
+          "line": "\u201cYou may charge me with murder--or want of sense--"
+        },
+        {
+          "line": "(We are all of us weak at times):"
+        },
+        {
+          "line": "But the slightest approach to a false pretence"
+        },
+        {
+          "line": "Was never among my crimes!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 5,
+      "stanza": [
+        {
+          "line": "\u201cI said it in Hebrew--I said it in Dutch--"
+        },
+        {
+          "line": "I said it in German and Greek:"
+        },
+        {
+          "line": "But I wholly forgot (and it vexes me much)"
+        },
+        {
+          "line": "That English is what you speak!\u201d"
+        }
+      ]
+    },
+    {
+      "stanzaID": 6,
+      "stanza": [
+        {
+          "line": "\u201c\u2019Tis a pitiful tale,\u201d said the Bellman, whose face"
+        },
+        {
+          "line": "Had grown longer at every word:"
+        },
+        {
+          "line": "\u201cBut, now that you\u2019ve stated the whole of your case,"
+        },
+        {
+          "line": "More debate would be simply absurd."
+        }
+      ]
+    },
+    {
+      "stanzaID": 7,
+      "stanza": [
+        {
+          "line": "\u201cThe rest of my speech\u201d (he explained to his men)"
+        },
+        {
+          "line": "\u201cYou shall hear when I\u2019ve leisure to speak it."
+        },
+        {
+          "line": "But the Snark is at hand, let me tell you again!"
+        },
+        {
+          "line": "\u2019Tis your glorious duty to seek it!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 8,
+      "stanza": [
+        {
+          "line": "\u201cTo seek it with thimbles, to seek it with care;"
+        },
+        {
+          "line": "To pursue it with forks and hope;"
+        },
+        {
+          "line": "To threaten its life with a railway-share;"
+        },
+        {
+          "line": "To charm it with smiles and soap!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 9,
+      "stanza": [
+        {
+          "line": "\u201cFor the Snark\u2019s a peculiar creature, that won\u2019t"
+        },
+        {
+          "line": "Be caught in a commonplace way."
+        },
+        {
+          "line": "Do all that you know, and try all that you don\u2019t:"
+        },
+        {
+          "line": "Not a chance must be wasted to-day!"
+        }
+      ]
+    },
+    {
+      "stanzaID": 10,
+      "stanza": [
+        {
+          "line": "\u201cFor England expects--I forbear to proceed:"
+        },
+        {
+          "line": "\u2019Tis a maxim tremendous, but trite:"
+        },
+        {
+          "line": "And you\u2019d best be unpacking the things that you need"
+        },
+        {
+          "line": "To rig yourselves out for the fight.\u201d"
+        }
+      ]
+    },
+    {
+      "stanzaID": 11,
+      "stanza": [
+        {
+          "line": "Then the Banker endorsed a blank cheque (which he crossed),"
+        },
+        {
+          "line": "And changed his loose silver for notes."
+        },
+        {
+          "line": "The Baker with care combed his whiskers and hair,"
+        },
+        {
+          "line": "And shook the dust out of his coats."
+        }
+      ]
+    },
+    {
+      "stanzaID": 12,
+      "stanza": [
+        {
+          "line": "The Boots and the Broker were sharpening a spade--"
+        },
+        {
+          "line": "Each working the grindstone in turn:"
+        },
+        {
+          "line": "But the Beaver went on making lace, and displayed"
+        },
+        {
+          "line": "No interest in the concern:"
+        }
+      ]
+    },
+    {
+      "stanzaID": 13,
+      "stanza": [
+        {
+          "line": "Though the Barrister tried to appeal to its pride,"
+        },
+        {
+          "line": "And vainly proceeded to cite"
+        },
+        {
+          "line": "A number of cases, in which making laces"
+        },
+        {
+          "line": "Had been proved an infringement of right."
+        }
+      ]
+    },
+    {
+      "stanzaID": 14,
+      "stanza": [
+        {
+          "line": "The maker of Bonnets ferociously planned"
+        },
+        {
+          "line": "A novel arrangement of bows:"
+        },
+        {
+          "line": "While the Billiard-marker with quivering hand"
+        },
+        {
+          "line": "Was chalking the tip of his nose."
+        }
+      ]
+    },
+    {
+      "stanzaID": 15,
+      "stanza": [
+        {
+          "line": "But the Butcher turned nervous, and dressed himself fine,"
+        },
+        {
+          "line": "With yellow kid gloves and a ruff--"
+        },
+        {
+          "line": "Said he felt it exactly like going to dine,"
+        },
+        {
+          "line": "Which the Bellman declared was all \u201cstuff.\u201d"
+        }
+      ]
+    },
+    {
+      "stanzaID": 16,
+      "stanza": [
+        {
+          "line": "\u201cIntroduce me, now there\u2019s a good fellow,\u201d he said,"
+        },
+        {
+          "line": "\u201cIf we happen to meet it together!\u201d"
+        },
+        {
+          "line": "And the Bellman, sagaciously nodding his head,"
+        },
+        {
+          "line": "Said \u201cThat must depend on the weather.\u201d"
+        }
+      ]
+    },
+    {
+      "stanzaID": 17,
+      "stanza": [
+        {
+          "line": "The Beaver went simply galumphing about,"
+        },
+        {
+          "line": "At seeing the Butcher so shy:"
+        },
+        {
+          "line": "And even the Baker, though stupid and stout,"
+        },
+        {
+          "line": "Made an effort to wink with one eye."
+        }
+      ]
+    },
+    {
+      "stanzaID": 18,
+      "stanza": [
+        {
+          "line": "\u201cBe a man!\u201d said the Bellman in wrath, as he heard"
+        },
+        {
+          "line": "The Butcher beginning to sob."
+        },
+        {
+          "line": "\u201cShould we meet with a Jubjub, that desperate bird,"
+        },
+        {
+          "line": "We shall need all our strength for the job!\u201d"
+        }
+      ]
+    }
+  ]
+}

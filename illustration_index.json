@@ -1,0 +1,202 @@
+{
+  "1": [
+    {
+      "stanza": 1,
+      "src": "illustrations/chapter_1_stanza_1.png"
+    },
+    {
+      "stanza": 12,
+      "src": "illustrations/chapter_1_stanza_12.png"
+    },
+    {
+      "stanza": 19,
+      "src": "illustrations/chapter_1_stanza_19.png"
+    },
+    {
+      "stanza": 26,
+      "src": "illustrations/chapter_1_stanza_26.png"
+    },
+    {
+      "stanza": 5,
+      "src": "illustrations/chapter_1_stanza_5.png"
+    },
+    {
+      "stanza": 8,
+      "src": "illustrations/chapter_1_stanza_8.png"
+    }
+  ],
+  "2": [
+    {
+      "stanza": 15,
+      "src": "illustrations/chapter_2_stanza_15.png"
+    },
+    {
+      "stanza": 18,
+      "src": "illustrations/chapter_2_stanza_18.png"
+    },
+    {
+      "stanza": 2,
+      "src": "illustrations/chapter_2_stanza_2.png"
+    },
+    {
+      "stanza": 6,
+      "src": "illustrations/chapter_2_stanza_6.png"
+    },
+    {
+      "stanza": 9,
+      "src": "illustrations/chapter_2_stanza_9.png"
+    }
+  ],
+  "3": [
+    {
+      "stanza": 1,
+      "src": "illustrations/chapter_3_stanza_1.png"
+    },
+    {
+      "stanza": 11,
+      "src": "illustrations/chapter_3_stanza_11.png"
+    },
+    {
+      "stanza": 13,
+      "src": "illustrations/chapter_3_stanza_13.png"
+    },
+    {
+      "stanza": 3,
+      "src": "illustrations/chapter_3_stanza_3.png"
+    },
+    {
+      "stanza": 5,
+      "src": "illustrations/chapter_3_stanza_5.png"
+    },
+    {
+      "stanza": 7,
+      "src": "illustrations/chapter_3_stanza_7.png"
+    }
+  ],
+  "4": [
+    {
+      "stanza": 1,
+      "src": "illustrations/chapter_4_stanza_1.png"
+    },
+    {
+      "stanza": 14,
+      "src": "illustrations/chapter_4_stanza_14.png"
+    },
+    {
+      "stanza": 19,
+      "src": "illustrations/chapter_4_stanza_19.png"
+    },
+    {
+      "stanza": 23,
+      "src": "illustrations/chapter_4_stanza_23.png"
+    },
+    {
+      "stanza": 27,
+      "src": "illustrations/chapter_4_stanza_27.png"
+    },
+    {
+      "stanza": 29,
+      "src": "illustrations/chapter_4_stanza_29.png"
+    }
+  ],
+  "5": [
+    {
+      "stanza": 1,
+      "src": "illustrations/chapter_5_stanza_1.png"
+    },
+    {
+      "stanza": 20,
+      "src": "illustrations/chapter_5_stanza_20.png"
+    },
+    {
+      "stanza": 25,
+      "src": "illustrations/chapter_5_stanza_25.png"
+    },
+    {
+      "stanza": 33,
+      "src": "illustrations/chapter_5_stanza_33.png"
+    },
+    {
+      "stanza": 5,
+      "src": "illustrations/chapter_5_stanza_5.png"
+    },
+    {
+      "stanza": 7,
+      "src": "illustrations/chapter_5_stanza_7.png"
+    }
+  ],
+  "6": [
+    {
+      "stanza": 0,
+      "src": "illustrations/chapter_6_stanza_0.png"
+    },
+    {
+      "stanza": 12,
+      "src": "illustrations/chapter_6_stanza_12.png"
+    },
+    {
+      "stanza": 16,
+      "src": "illustrations/chapter_6_stanza_16.png"
+    },
+    {
+      "stanza": 18,
+      "src": "illustrations/chapter_6_stanza_18.png"
+    },
+    {
+      "stanza": 2,
+      "src": "illustrations/chapter_6_stanza_2.png"
+    },
+    {
+      "stanza": 6,
+      "src": "illustrations/chapter_6_stanza_6.png"
+    }
+  ],
+  "7": [
+    {
+      "stanza": 1,
+      "src": "illustrations/chapter_7_stanza_1.png"
+    },
+    {
+      "stanza": 3,
+      "src": "illustrations/chapter_7_stanza_3.png"
+    },
+    {
+      "stanza": 5,
+      "src": "illustrations/chapter_7_stanza_5.png"
+    },
+    {
+      "stanza": 7,
+      "src": "illustrations/chapter_7_stanza_7.png"
+    },
+    {
+      "stanza": 9,
+      "src": "illustrations/chapter_7_stanza_9.png"
+    }
+  ],
+  "8": [
+    {
+      "stanza": 1,
+      "src": "illustrations/chapter_8_stanza_1.png"
+    },
+    {
+      "stanza": 3,
+      "src": "illustrations/chapter_8_stanza_3.png"
+    },
+    {
+      "stanza": 4,
+      "src": "illustrations/chapter_8_stanza_4.png"
+    },
+    {
+      "stanza": 5,
+      "src": "illustrations/chapter_8_stanza_5.png"
+    },
+    {
+      "stanza": 6,
+      "src": "illustrations/chapter_8_stanza_6.png"
+    },
+    {
+      "stanza": 8,
+      "src": "illustrations/chapter_8_stanza_8.png"
+    }
+  ]
+}
