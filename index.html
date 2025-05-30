@@ -34,16 +34,26 @@
     body {
       display: grid;
       grid-template-columns: 0.8fr minmax(420px, 520px) 1.1fr;
-      background-image: url('bg.png');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center;
-      background-attachment: fixed;
       color: #f5f5f5;
       font-family: 'Spectral', serif;
       line-height: 1.5;
       margin: 0;
       padding: 0;
+    }
+    body:after{
+      content:"";
+      position:fixed; /* stretch a fixed position to the whole screen */
+      top:0;
+      height:100vh; /* fix for mobile browser address bar appearing disappearing */
+      left:0;
+      right:0;
+      z-index:-1; /* needed to keep in the background */
+      background-image: url('bg.png');
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+        background-repeat: no-repeat;
     }
     main
     {
@@ -231,6 +241,90 @@
     @keyframes blink {
       50% { opacity: 0; }
     }
+
+    /* Touch device fixes for hover */
+    .commentary:focus-within,
+    .commentary:active {
+      opacity: 0.8;
+    }
+
+    /* Mobile and tablet layout adjustments */
+    @media (max-width: 900px) {
+      body {
+        display: block;
+      }
+
+      #left-panel, #right-panel {
+        position: relative;
+        height: auto;
+        overflow: visible;
+        padding: 1em;
+        border: none;
+        box-shadow: none;
+      }
+
+      #left-panel {
+        display: none;
+        order: 3;
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background-color: rgba(0, 0, 0, 0.6);
+      }
+
+      #right-panel {
+        order: 1;
+      }
+
+      main {
+        order: 2;
+      }
+
+      #audio-controls {
+        flex-wrap: wrap;
+        gap: 0.5em;
+        padding: 0.5em;
+      }
+
+      .commentary {
+        font-size: 0.9em;
+        padding-right: 0;
+      }
+
+      .stanza.current::before {
+        left: 0;
+      }
+
+      .toggle-commentary-btn {
+        display: block;
+        margin: 1em auto;
+        background: #222;
+        color: #fff;
+        border: 1px solid #555;
+        padding: 0.5em 1em;
+        font-family: 'IBM Plex Mono', monospace;
+        border-radius: 4px;
+        text-align: center;
+      }
+
+      .mock-illustration {
+        display: block !important;
+        position: relative !important;
+        margin: 1em auto;
+        max-width: 90% !important;
+        height: auto !important;
+        transform: none !important;
+        opacity: 1 !important;
+      }
+    }
+
+    /* Adjust commentary wrapping for narrow screens */
+    .commentary {
+      word-break: normal;
+      overflow-wrap: break-word;
+    }
+
+    /* Responsive illustration adjustments for mobile */
   </style>
   <script src="tracks.js"></script>
   <script>
@@ -253,6 +347,7 @@
   </script>
 </head>
 <body>
+  <button id="toggle-commentary" class="toggle-commentary-btn" style="display: none;">Toggle Commentary</button>
   <div id="audio-controls">
     <button id="prev-stanza" title="Previous">Previous</button>
     <button id="play-pause" title="Play">Play</button>
@@ -607,6 +702,25 @@
   // Ensure audio controls are always visible
   document.getElementById("audio-controls").style.display = "flex";
 
+  // Commentary toggle for mobile
+  const toggleCommentaryButton = document.getElementById("toggle-commentary");
+  const leftPanel = document.getElementById("left-panel");
+
+  function checkMobileView() {
+    if (window.innerWidth <= 900) {
+      toggleCommentaryButton.style.display = "block";
+    } else {
+      toggleCommentaryButton.style.display = "none";
+      leftPanel.style.display = "block";
+    }
+  }
+
+  toggleCommentaryButton.addEventListener("click", () => {
+    leftPanel.style.display = leftPanel.style.display === "none" ? "block" : "none";
+  });
+
+  window.addEventListener("resize", checkMobileView);
+  window.addEventListener("load", checkMobileView);
 
 </script>
 <script>
@@ -622,6 +736,12 @@
       toggleMusicButton.textContent = "Music Off";
     }
     isMusicOn = !isMusicOn;
+  });
+
+  // Touch device fixes for commentary hover
+  document.getElementById("left-panel").addEventListener("touchstart", () => {
+    const commentary = document.querySelector('.commentary');
+    if (commentary) commentary.style.opacity = '0.8';
   });
 </script>
 </body>
